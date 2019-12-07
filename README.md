@@ -11,5 +11,6 @@ Display Football Data such as scores, upcoming match, team standing, top scorers
 
 ## Getting Started
 - Clone the Repository
+- Run pod install
 - Get the API Key from https://www.football-data.org
 - Put API Key in FootballDataService.swift apiKey constant
